@@ -1,7 +1,6 @@
 # fusion-ext
 This project contains utilities and tools intended for use with Lucidworks Fusion.
 
-
 ### ./getPut
 The getPut directory contains utilities useful when getting or putting objects and artifacts from/to Fusion.
 It can be used to back up, restore, or migrate a Fusion App.

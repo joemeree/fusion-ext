@@ -34,6 +34,6 @@ in late 2017. https://lucidworks.com/2017/08/16/fusion-javascript-shared-scripts
 
 ### Contact
 If you would like more information about the content on this site, contact:
-- Patrick Hoeffel, patrick.hoeffel@polarisalpha.com
-- Andrew Shumway, andrew.shumway@polarisalpha.com
+- Patrick Hoeffel, patrick.hoeffel@lucidworks.com
+- Andrew Shumway, andrew.shumway@lucidworks.com
 - Matt Kuiper, matt.kuiper@polarisalpha.com

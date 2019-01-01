@@ -1,5 +1,7 @@
 # fusion-ext
 This project contains utilities and tools intended for use with Lucidworks Fusion.
+As the primary contributor is no longer with PolarisAlpha, this repository is no longer maintained.
+See https://github.com/andrewshumway/fusion-ext for a more up-to-date fork.  At some point this may find a home under https://github.com/lucidworks
 
 ### ./getPut
 The getPut directory contains utilities useful when getting or putting objects and artifacts from/to Fusion.
@@ -34,6 +36,6 @@ in late 2017. https://lucidworks.com/2017/08/16/fusion-javascript-shared-scripts
 
 ### Contact
 If you would like more information about the content on this site, contact:
-- Patrick Hoeffel, patrick.hoeffel@lucidworks.com
-- Andrew Shumway, andrew.shumway@lucidworks.com
+- Patrick Hoeffel, patrick.hoeffel@polarisalpha.com
+- Andrew Shumway, andrew.shumway@polarisalpha.com
 - Matt Kuiper, matt.kuiper@polarisalpha.com

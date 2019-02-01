@@ -25,7 +25,7 @@
 
 if [ -z "$lw_PREFIX" ] ; then
     #prefix is the value used to identify the DataSources and Pipelines to export and save
-    export lw_PREFIX="EnterpriseSearch"
+    export lw_PREFIX="web1"
 fi
 
 # fields used for CURL and other server interactions
@@ -45,7 +45,7 @@ if [ -z "$lw_USERNAME" ] ; then
     export lw_USERNAME="admin"
 fi
 if [ -z "$lw_PASSWORD" ] ; then
-    export lw_PASSWORD="password123"
+    export lw_PASSWORD="searchr0cks"
 fi
 
 ###################33
